@@ -1,10 +1,10 @@
 {
   "name": "express-zip",
   "description": "stream multiple files to the browser as a single zip, in pure node.",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "author": {
-    "name": "Craig McDonald (thrackle)",
-    "email": "oss@thrackle.com"
+    "name": "nicktzavalas",
+    "email": "nicktzavalas"
   },
   "dependencies": {
     "async": "0.9.0",
@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/thrackle/express-zip"
+    "url": "git://github.com/CIRCUIT-DEV/express-zip"
   },
   "main": "index",
   "engines": {
